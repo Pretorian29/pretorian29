@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/pretorian29/pretorian29/main/assets/Pretorian.svg" alt="Pretorian29" />
 </h1>
 
-<h1 align="center">
+<div align = "center">
 - 🚀 I use daily:
     ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
@@ -24,12 +24,12 @@
     ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-</h1>
+</div>
 
-<h1 align="center">
+<div align = "center">
 [![Pretorian29's github stats](https://github-readme-stats.vercel.app/api?username=Pretorian29&theme=dark&show_icons=true)](https://github.com/Pretorian29)
-</h1>
+</div>
 
-<h1 align="center">
+<div align = "center">
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpretorian29%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
-</h1>
+</div>
