@@ -3,6 +3,7 @@
 </h1>
 
 <div align = "center">
+
 - 🚀 I use daily:
     ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
@@ -27,9 +28,11 @@
 </div>
 
 <div align = "center">
+
 [![Pretorian29's github stats](https://github-readme-stats.vercel.app/api?username=Pretorian29&theme=dark&show_icons=true)](https://github.com/Pretorian29)
 </div>
 
 <div align = "center">
+
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpretorian29%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 </div>
