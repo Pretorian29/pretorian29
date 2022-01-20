@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/pretorian29/pretorian29/main/assets/Pretorian.svg" alt="Pretorian29" />
+  <img src="https://raw.githubusercontent.coupdates
+  m/pretorian29/pretorian29/main/assets/Pretorian.svg" alt="Pretorian29" />
 </h1>
 
 <div align = "center">
@@ -8,30 +9,26 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)  
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)  
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-
 ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
