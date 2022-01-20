@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/pretorian29/pretorian29/main/assets/Pretorian.svg" alt="Pretorian29" />
 </h1>
 
-
-- 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
     ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
@@ -13,7 +11,7 @@
     ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)  
     ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)  
     ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-    ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) !
+    ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)!
     ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
     ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
@@ -27,7 +25,7 @@
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 
  
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=Pretorian29&theme=dark&show_icons=true)](https://github.com/Pretorian29)
-[![Pretorian29's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14901234)](https://stackoverflow.com/users/14901234/pretorian)
+[![Pretorian29's github stats](https://github-readme-stats.vercel.app/api?username=Pretorian29&theme=dark&show_icons=true)](https://github.com/Pretorian29)
+
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpretorian29%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
