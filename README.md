@@ -1,4 +1,4 @@
-<img src="../pretorian29/assets/welcome.png">
+<img src="../pretorian29/assets/welcome.svg">
 
 <h3 align="center">
   Welcome to Pretorian29's profile!
