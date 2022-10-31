@@ -85,12 +85,12 @@
 
 <div align = "center">
 
-[![Pretorian29's github stats](https://github-readme-stats.vercel.app/api?username=Pretorian29&theme=dark&show_icons=true)](https://github.com/Pretorian29)
+[![Pretorian29's github stats](https://github-readme-stats.vercel.app/api?username=Pretorian29&theme=midnight-purple&show_icons=true)](https://github.com/Pretorian29)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pretorian29&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pretorian29&theme=midnight-purple)](https://git.io/streak-stats)
 
 <!--📙LANGUAGES -->
-<a href="https://github.com/Pretorian29/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pretorian29&layout=compact&theme=dark">
+<a href="https://github.com/Pretorian29/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pretorian29&layout=compact&theme=midnight-purple">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4eoso54rcavo6p4yyouykwjda&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
