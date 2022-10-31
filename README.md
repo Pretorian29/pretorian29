@@ -16,7 +16,7 @@
 
 
 
--   :face: I am an **Astrophysicist | Data Scientist | Business Owner**
+-   :hand: I am an **Astrophysicist | Data Scientist | Business Owner**
 -   :computer: I am working as **Principal Data Scientist**
 -   :monocle_face: Interested in everything **Artificial Intelligence**
 -   :seedling: Currently learning **CyberSecurity**
@@ -26,6 +26,7 @@
 
 
 <div align = "left">
+
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
