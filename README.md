@@ -18,16 +18,16 @@
 
 -   :hand: I am an **Astrophysicist | Data Scientist | Business Owner**
 -   :computer: I am working as **Principal Data Scientist**
--   :monocle_face: Interested in everything **Artificial Intelligence**
+-   :monocle_face: Interested in everything about **Artificial Intelligence**
 -   :seedling: Currently learning **CyberSecurity**
 -   :heart: Open Source Software | Cats | Coffee | Music
 -   :house: **Foxpro** ... the return to innocence in 1993.
 
 <br>
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">    
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>  
 </p>
 <br>
@@ -83,6 +83,7 @@
 </div>
 
 <div align = "center">
+
 [![Pretorian29's github stats](https://github-readme-stats.vercel.app/api?username=Pretorian29&theme=dark&show_icons=true)](https://github.com/Pretorian29)
 </div>
 
