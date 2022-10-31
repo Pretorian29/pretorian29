@@ -10,9 +10,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/ltd_vega"><img width="32px" alt="Twitter" title="Twitter" src="https://www.flaticon.com/free-icon/twitter_2335417?related_id=2335417"/></a>
+  <a href="https://twitter.com/ltd_vega"><img width="32px" alt="Twitter" title="Twitter" src="../pretorian29/assets/twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;  
-  <a href="https://dev.to/pretorian29"><img width="32px" alt="Dev.to" title="Pretorian29 Dev.to" src="https://www.flaticon.com/free-icon/dev_5969109?term=dev&page=1&position=2&page=1&position=2&related_id=5969109&origin=search"></a>
+  <a href="https://dev.to/pretorian29"><img width="32px" alt="Dev.to" title="Pretorian29 Dev.to" src="../pretorian29/assets/dev.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
