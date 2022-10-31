@@ -25,15 +25,18 @@
 
 
 <br>
-<p align="center">
+<div align="center">
 
   ## I work in a daily basis with:
+  <p>
+    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">    
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>  
+  </p>
   
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">    
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>  
-</p>
+</div>
+
 <br>
 
 <div align = "left">
