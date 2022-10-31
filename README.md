@@ -1,9 +1,10 @@
+<img src="../pretorian29/assets/welcome.png">
+
 <h3 align="center">
   Welcome to Pretorian29's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=841DAC&center=true&vCenter=true&width=600&lines=Aequat+omnes+cinis...;Astrophysics+-+Data+Science+-+CyberSecurity;Never+Stop+Learning" alt="Typing SVG" /></a>
 </p>
