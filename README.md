@@ -1,5 +1,4 @@
-<img src="../pretorian29/assets/welcome.svg">
-
+<img src="../pretorian29/assets/banner.png">
 <h3 align="center">
   Welcome to Pretorian29's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
