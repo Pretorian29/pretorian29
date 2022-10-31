@@ -14,15 +14,16 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Pretorian29?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  
 </p>
 
+<br>
 -   :face: I am an **Astrophysicist | Data Scientist | Business Owner**
 -   :computer: I am working as **Principal Data Scientist**
 -   :monocle_face: Interested in everything **Artificial Intelligence**
 -   :seedling: Currently learning **CyberSecurity**
 -   :heart: Open Source Software | Cats | Coffee | Music
 -   :house: **Foxpro** ... the return to innocence in 1993.
+<br>
 
 <div align = "left">
-
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -30,7 +31,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)  
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)  
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
 ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
@@ -73,7 +73,6 @@
 </div>
 
 <div align = "center">
-
 [![Pretorian29's github stats](https://github-readme-stats.vercel.app/api?username=Pretorian29&theme=dark&show_icons=true)](https://github.com/Pretorian29)
 </div>
 
