@@ -16,7 +16,6 @@
 </p>
 
 
-
 -   :hand: I am an **Astrophysicist | Data Scientist | Business Owner**
 -   :computer: I am working as **Principal Data Scientist**
 -   :monocle_face: Interested in everything about **Artificial Intelligence**
