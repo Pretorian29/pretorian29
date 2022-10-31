@@ -12,9 +12,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Pretorian29?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
   <a href="https://github.com/Pretorian29?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Pretorian29?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>      
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Pretorian29?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>     
 </p>
-
 
 -   :hand: I am an **Astrophysicist | Data Scientist | Business Owner**
 -   :computer: I am working as **Principal Data Scientist**
@@ -23,8 +22,6 @@
 -   :heart: Open Source Software | Cats | Coffee | Music
 -   :house: **Foxpro** ... the return to innocence in 1993.
 
-
-<br>
 <div align="center">
 
   ## I work in a daily basis with:
@@ -34,7 +31,7 @@
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">    
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>  
   </p>
-  
+
 </div>
 
 <br>
