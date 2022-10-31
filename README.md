@@ -1,4 +1,3 @@
-<img src="../pretorian29/assets/banner.png">
 <h3 align="center">
   Welcome to Pretorian29's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
@@ -14,6 +13,13 @@
   <a href="https://github.com/Pretorian29?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Pretorian29?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  
 </p>
+
+-   :face: I am an **Astrophysicist | Data Scientist | Business Owner**
+-   :computer: I am working as **Principal Data Scientist**
+-   :monocle_face: Interested in everything **Artificial Intelligence**
+-   :seedling: Currently learning **CyberSecurity**
+-   :heart: Open Source Software | Cats | Coffee | Music
+-   :house: **Foxpro** ... the return to innocence in 1993.
 
 <div align = "center">
 
