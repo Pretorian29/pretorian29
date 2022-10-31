@@ -8,14 +8,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=841DAC&center=true&vCenter=true&width=600&lines=Aequat+omnes+cinis...;Astrophysics+-+Data+Science+-+CyberSecurity;Never+Stop+Learning" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/ltd_vega"><img width="32px" alt="Twitter" title="Twitter" src="../pretorian29/assets/twitter.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;  
-  <a href="https://dev.to/pretorian29"><img width="32px" alt="Dev.to" title="Pretorian29 Dev.to" src="../pretorian29/assets/dev.svg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
 <p align="center">
   <a href="https://github.com/Pretorian29?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Pretorian29?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
