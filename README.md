@@ -47,10 +47,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Json](https://img.shields.io/badge/-json-000?&logo=json)
+![Html](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![Css](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![Sqlite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 
 ### Technologies
 
@@ -76,6 +76,8 @@
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </div>
+
+<hr></hr>
 
 <div align = "center">
 
