@@ -34,53 +34,38 @@
 <br>
 
 <div align = "left">
+### Languages/Frameworks I'm good at:
 
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)  
-![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
+<code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
+<code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
+<code><a href="https://discord.js.org"><img alt="discord.js" title="discord.js" src="https://avatars0.githubusercontent.com/u/26492485" height="42"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/ECMAScript"><img alt="ECMAScript 11" title="ECMAScript 11" src="https://github.com/cheesits456/cheesits456/raw/master/icons/ecmascript.png" height="42"></a></code>
+<code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a></code>
+<code><a href="http://www.json.org"><img alt="JSON" title="JSON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" height="42"></a></code>
+<code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" height="42"></a></code>
+<code><a href="https://nodejs.org/en/"><img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a></code>
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+### Languages/Frameworks I'm learning:
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<code><a href="http://coffeescript.org/"><img alt="CoffeeScript" title="CoffeeScript" src="https://github.com/cheesits456/cheesits456/raw/master/icons/coffeescript.png" height="42"></a></code>
+<code><a href="https://www.electronjs.org/"><img alt="Electron" title="Electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" height="42"></a></code>
+<code><a href="https://expressjs.com"><img alt="Express" title="Express" src="https://github.com/cheesits456/cheesits456/raw/master/icons/express.png" height="42"></a></code>
+<code><a href="https://www.lua.org"><img alt="Lua" title="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" height="42"></a></code>
+<code><a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42"></a></code>
 
-![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+### Environments I work with:
+
+<code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a></code>
+<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a></code>
+<code><a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a></code>
+<code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a></code>
+<code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a></code>
+<code><a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a></code>
+<code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
+
 </div>
 
 <div align = "center">
