@@ -88,7 +88,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pretorian29&theme=dark)](https://git.io/streak-stats)
 
-![Visitor Count](https : //profile-counter.glitch.me/{Pretorian29}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/Pretorian29/count.svg)
 
 </div>
 
