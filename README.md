@@ -24,8 +24,6 @@
 -   :house: **Foxpro** ... the return to innocence in 1993.
 
 
-![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FPretorian29%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
-
 <br>
 <p align="center">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
@@ -91,7 +89,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pretorian29&theme=dark)](https://git.io/streak-stats)
 
-![Visitor Count](https : //profile-counter.glitch.me/Pretorian29/count.svg)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4eoso54rcavo6p4yyouykwjda&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
