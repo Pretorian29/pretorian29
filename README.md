@@ -110,8 +110,6 @@
 
 <div align = "center">
 
-![British Flag](https://github.com/pretorian29/assets/britain.gif)
-
 [![Pretorian29's github stats](https://github-readme-stats.vercel.app/api?username=Pretorian29&theme=midnight-purple&show_icons=true)](https://github.com/Pretorian29)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pretorian29&theme=midnight-purple)](https://git.io/streak-stats)
