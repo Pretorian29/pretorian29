@@ -103,6 +103,8 @@
 ![Quora](https://img.shields.io/badge/-Quora-000?&logo=Quora)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-000?&logo=stack-overflow)
 ![Reddit](https://img.shields.io/badge/-Reddit-000?&logo=Reddit)
+![mIRC](https://img.shields.io/badge/-mirc-000?&logo=mirc)
+![dev](https://img.shields.io/badge/-dev-000?&logo=dev)
 
 </div>
 
