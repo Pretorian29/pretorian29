@@ -81,23 +81,22 @@
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 
 ### My Fav Tools:
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Firebase](https://img.shields.io/badge/-firebase-000?&logo=firebase)
+![Git](https://img.shields.io/badge/-GIT-000?&logo=git)
+![Bash](https://img.shields.io/badge/-GNU%20Bash-000?&logo=GNU%20Bash)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Vscode](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=visual%20studio%20code&)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![GNU/Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-000?&logo=anaconda)
+![Jira](https://img.shields.io/badge/-jira-000?&logo=jira)
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
+![ApacheCassandra](https://img.shields.io/badge/-cassandra-000?&logo=apache-cassandra)
+![OpenCV](https://img.shields.io/badge/-opencv-000?&logo=opencv)
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwind-css)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![ESLint](https://img.shields.io/badge/-ESLint-000?&logo=eslint)
 
 ### My fav places:
 
