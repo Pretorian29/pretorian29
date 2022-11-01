@@ -37,8 +37,6 @@
 
 </div>
 
-<br>
-
 <div align = "left">
 
 ### Languages
@@ -68,13 +66,16 @@
 ![Express.JS](https://img.shields.io/badge/-Express.JS-000?&logo=Express.JS)
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-000?&logo=material-UI)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/-numpy-000?&logo=numpy)
+![Pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
+![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
+![RxJS](https://img.shields.io/badge/-rxjs-000?&logo=reactivex)
 
 ### Languages/Frameworks I'm learning:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 
 ### My Fav Tools:
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
@@ -86,32 +87,28 @@
 ![GNU/Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 
-
-
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
+### My fav places:
 
+![Quora](https://img.shields.io/badge/-Quora-000?&logo=Quora)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-000?&logo=stack-overflow)
+![Reddit](https://img.shields.io/badge/-Reddit-000?&logo=Reddit)
 
-![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 </div>
 
 <hr></hr>
