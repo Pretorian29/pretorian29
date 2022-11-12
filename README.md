@@ -15,8 +15,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Pretorian29?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>     
 </p>
 
-<a href="https://giphy.com/gifs/art-3d-scorpion-lLFW3YyS9ewCHRKrEh"></a>
-
 <hr></hr>
 
 -   :hand: I am an **Astrophysicist | Data Scientist | Business Owner**
