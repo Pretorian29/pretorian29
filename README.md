@@ -15,6 +15,8 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Pretorian29?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>     
 </p>
 
+<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/lLFW3YyS9ewCHRKrEh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-3d-scorpion-lLFW3YyS9ewCHRKrEh">via GIPHY</a></p>
+
 <hr></hr>
 
 -   :hand: I am an **Astrophysicist | Data Scientist | Business Owner**
