@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="./assets/python2.jpg" width="800">
+  <img src="./assets/HD-wallpaper-kali-linux-electric-blue-computer-neon-dragon.jpg" width="800">
 </h3>
 
 <h3 align="center">
