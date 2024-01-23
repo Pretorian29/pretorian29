@@ -22,8 +22,8 @@
 <hr></hr>
 
 -   :hand: I am an **Astrophysicist | Data Scientist | Business Owner**
--   :computer: I am working as **Principal Data Scientist**
--   :monocle_face: Interested in everything about **Artificial Intelligence**
+-   :computer: I am working as **Principal Data Scientist and Full Stack Developer**
+-   :monocle_face: Interested in everything about **Artificial Intelligence | Ethical Hacking**
 -   :seedling: Currently learning **CyberSecurity**
 -   :heart: Open Source Software | Cats | Coffee | Music
 -   :house: **Foxpro** ... the return to innocence in 1993.
@@ -103,6 +103,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwind-css)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 ![ESLint](https://img.shields.io/badge/-ESLint-000?&logo=eslint)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=metasploit)
 
 ### My fav places:
 
@@ -111,6 +112,7 @@
 ![Reddit](https://img.shields.io/badge/-Reddit-000?&logo=Reddit)
 ![mIRC](https://img.shields.io/badge/-mirc-000?&logo=mirc)
 ![dev](https://img.shields.io/badge/-dev-000?&logo=dev)
+![Hackthebox](https://img.shields.io/badge/-hackthebox-000?&logo=hackthebox)
 
 </div>
 
