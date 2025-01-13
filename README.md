@@ -129,9 +129,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31f4eoso54rcavo6p4yyouykwjda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-<p>  
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Pretorian29.Pretorian29"/>
-  <img src="https://visitor-badge.glitch.me/badge?Pretorian29=jwenjian.visitor-badge.issue.1"/>   
+<p>    
+  <img src="https://visitor-badge.glitch.me/badge?Pretorian29.Pretorian29=jwenjian.visitor-badge.issue.1"/>   
   <br>
 </p>
 
