@@ -127,7 +127,7 @@
 <!--📙LANGUAGES -->
 <a href="https://github.com/Pretorian29/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pretorian29&layout=compact&theme=midnight-purple">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4eoso54rcavo6p4yyouykwjda&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31f4eoso54rcavo6p4yyouykwjda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p>  
   <img src="https://visitor-badge.glitch.me/badge?page_id=Pretorian29.Pretorian29"/>
