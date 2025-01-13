@@ -131,7 +131,7 @@
 
 <p>  
   <img src="https://visitor-badge.glitch.me/badge?page_id=Pretorian29.Pretorian29"/>
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pretorian29.Pretorian29&left_color=green&right_color=red)
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pretorian29&left_color=green&right_color=red)
   <br>
 </p>
 
