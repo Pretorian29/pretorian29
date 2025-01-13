@@ -130,7 +130,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31f4eoso54rcavo6p4yyouykwjda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p>    
-  <img src="https://visitor-badge.glitch.me/badge?pretorian29=jwenjian.visitor-badge.issue.1"/>   
+  <img src="https://visitor-badge.glitch.me/badge?72453357=jwenjian.visitor-badge.issue.1"/>   
   <br>
 </p>
 
