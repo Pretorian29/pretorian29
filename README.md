@@ -130,7 +130,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31f4eoso54rcavo6p4yyouykwjda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p>    
-  <img src="https://visit-counter.vercel.app/counter.png?github.com/Pretorian29&c=00ffff"/>   
+  <img src="https://visit-counter.vercel.app/counter.png?github.com/Pretorian29"/>   
   <br>
 </p>
 
