@@ -21,10 +21,10 @@
 
 <hr></hr>
 
--   :hand: I am an **Astrophysicist | Data Scientist | Business Owner**
--   :computer: I am working as **Principal Data Scientist and Full Stack Developer**
--   :monocle_face: Interested in everything about **Artificial Intelligence | Ethical Hacking**
--   :seedling: Currently learning **CyberSecurity**
+-   :hand: I am an **Astrophysicist | Data Scientist | Data Protection & Technology Lawyer | Business Owner**
+-   :computer: I am working as **Senior Blue Team Specilaist**
+-   :monocle_face: Interested in everything about **Artificial Intelligence | Ethical Hacking | Digital Rights**
+-   :seedling: Currently learning **CyberSecurity | Digital Law | Blockchain**
 -   :heart: Open Source Software | Cats | Coffee | Music
 -   :house: **Foxpro** ... the return to innocence in 1993.
 
@@ -44,6 +44,14 @@
 </div>
 
 <div align = "left">
+
+### Areas
+
+![Digital Law](https://img.shields.io/badge/-Digital%20Law-000)
+![Privacy](https://img.shields.io/badge/-Privacy-000)
+![Data Protection](https://img.shields.io/badge/-Data%20Protection-000)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-000)
 
 ### Languages
 
