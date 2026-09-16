@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=841DAC&center=true&vCenter=true&width=600&lines=Aequat+omnes+cinis...;Astrophysics+-+Data+Science+-+CyberSecurity;Never+Stop+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=841DAC&center=true&vCenter=true&width=600&lines=Aequat+omnes+cinis...;Astrophysics+-+Data+Science+-+CyberSecurity+-+Digital Law;Never+Stop+Learning" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -45,14 +45,6 @@
 
 <div align = "left">
 
-### Areas
-
-![Digital Law](https://img.shields.io/badge/-Digital%20Law-000)
-![Privacy](https://img.shields.io/badge/-Privacy-000)
-![Data Protection](https://img.shields.io/badge/-Data%20Protection-000)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000)
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-000)
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -76,7 +68,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Express.JS](https://img.shields.io/badge/-Express.JS-000?&logo=Express.JS)
@@ -91,8 +82,13 @@
 ![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON%20web%20tokens)
 
 ### Languages/Frameworks I'm learning:
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
-![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
+
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=expo)
+![Android](https://img.shields.io/badge/-Android-000?&logo=android)
+![iOS](https://img.shields.io/badge/-iOS-000?&logo=apple)
 
 ### My Fav Tools:
 ![Firebase](https://img.shields.io/badge/-firebase-000?&logo=firebase)
@@ -134,8 +130,6 @@
 
 <!--📙LANGUAGES -->
 <a href="https://github.com/Pretorian29/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pretorian29&layout=compact&theme=midnight-purple">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31f4eoso54rcavo6p4yyouykwjda&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p>    
   <img src="https://visit-counter.vercel.app/counter.png?github.com/Pretorian29"/>   
