@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=841DAC&center=true&vCenter=true&width=600&lines=Aequat+omnes+cinis...;Astrophysics+-+Data+Science+-+CyberSecurity+-+Digital Law;Never+Stop+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DC00B&width=435&lines=Developer+%E2%80%A2+Cybersecurity+%E2%80%A2+Data+Science+%E2%80%A2+Astrophysics+%E2%80%A2+Digital+Law" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
